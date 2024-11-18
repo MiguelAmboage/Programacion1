@@ -1,4 +1,4 @@
-public class programa3 {
+ public class programa3 {
 
     /**
      * @param args the command line arguments
